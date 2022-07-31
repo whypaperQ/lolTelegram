@@ -8,7 +8,7 @@
 * Windows:
   * Download Python 3.8 [here](https://www.python.org/downloads/release/python-38) 
   * Launch installer, click 'add python to PATH'
-  * Download **TGPars**
+  * Download **lolTelegram**
   * Open Command Line in **LOLTelegram directory**
   * Run command: ***python setup.py -i**`
   * Then go to [my.telegram.org] and login in your account
